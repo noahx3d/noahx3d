@@ -56,8 +56,6 @@
 
 ## 📫 Contato
 
-<a href="[def]" target="_blank">
+<a href="https://www.linkedin.com/in/leo-cast-a65948337/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-[def]: ww.linkedin.com/in/leo-cast-a6594833
