@@ -15,7 +15,7 @@
 
 <p align="left">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=noahx3d&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight" />
+  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight" />
 </p>
 
 ---
