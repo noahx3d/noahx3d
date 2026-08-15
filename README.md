@@ -11,6 +11,24 @@
 - 💻 Tenho interesse em...
 - ⚡ Curiosidade sobre mim: ...
 
+## 🧰 Tecnologias e ferramentas
+
+### 🎨 Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,ts&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend
+
+[![Backend](https://skillicons.dev/icons?i=java,python,spring,nodejs&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Banco de dados
+
+[![Banco de Dados](https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Ferramentas
+
+[![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark)](https://skillicons.dev)
+
 ## 📊 Status do GitHub 
 
 <p align="left">
