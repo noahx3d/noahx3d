@@ -6,12 +6,13 @@
 
 ## 💫 Sobre Mim:
 
-- 🔭 Atualmente estou trabalhando em...
-- 🌱 Atualmente estou aprendendo...
-- 💻 Tenho interesse em...
-- ⚡ Curiosidade sobre mim: ...
+- 📍 Brasília, Distrito Federal
+- 👨‍💻 Explorando o mundo da programação com foco em front-end e back-end
+- 📚 Sempre aprendendo e colocando a mão no código
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎮 Gamer nas horas vagas
 
-## 🧰 Tecnologias e ferramentas
+## 🧰 Tecnologias e ferramentas que uso e estudo
 
 ### 🎨 Frontend
 
@@ -31,12 +32,21 @@
 
 ## 📊 Status do GitHub 
 
-<p align="left">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=noahx3d&show_icons=true&theme=tokyonight" />
-  <img height="190" src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img
+    width="53%"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api?username=noahx3d&show_icons=true&theme=tokyonight"
+  />
+  <img
+    width="49%"
+    height="200"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight"
+  />
 </p>
 
----
+## 👾 Minhas contribuições #
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/noahx3d/noahx3d/output/pacman-contribution-graph-dark.svg"
@@ -44,3 +54,8 @@
   >
 </p>
 
+## 📫 Contato
+
+<a href="www.linkedin.com/in/leo-cast-a65948337" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
