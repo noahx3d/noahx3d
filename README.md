@@ -4,16 +4,25 @@
 
 <h1 align="center">Olá 👋,Eu sou Leonardo</h1>
 
-## 💫 About Me:
+## 💫 Sobre Mim:
 
 - 🔭 Atualmente estou trabalhando em...
 - 🌱 Atualmente estou aprendendo...
 - 💻 Tenho interesse em...
 - ⚡ Curiosidade sobre mim: ...
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/noahx3d/noahx3d/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/noahx3d/noahx3d/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/noahx3d/noahx3d/output/pacman-contribution-graph.svg">
-</picture>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noahx3d&show_icons=true&theme=tokyonight&count_private=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/noahx3d/noahx3d/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+  >
+</p>
 
