@@ -30,17 +30,17 @@
 
 [![Ferramentas](https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark)](https://skillicons.dev)
 
-## 📊 Status do GitHub 
+## 📊 Status do GitHub
 
 <p align="center">
   <img
-    width="53%"
-    height="200"
+    width="50%"
+    height="190"
     src="https://github-stats-extended.vercel.app/api?username=noahx3d&show_icons=true&theme=tokyonight"
   />
   <img
-    width="49%"
-    height="200"
+    width="45%"
+    height="190"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=noahx3d&layout=compact&theme=tokyonight"
   />
 </p>
@@ -56,6 +56,8 @@
 
 ## 📫 Contato
 
-<a href="www.linkedin.com/in/leo-cast-a65948337" target="_blank">
+<a href="[def]" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+[def]: ww.linkedin.com/in/leo-cast-a6594833
